@@ -7,5 +7,5 @@ which composed of 50k reviews labeled as positive or negative to enable training
 classifiers. Moreover, NLP tasks are currently solved based on pretrained language models such
 as BERT. These models provide a deep understanding of both semantic and contextual aspects
 of language words, sentences or even large paragraphs due to their training on huge corpus for
-very long time. In this assignment you will download the IMDB dataset from kaggle using this
-Link. Then, you will train BERT based classifier for movie reviews.
+very long time. In this notebook you will download the IMDB dataset and  Then, you will train BERT based classifier for movie reviews.
+There's 2 notebooks one with preprocessing and one without to show the difference .
